@@ -1,0 +1,4 @@
+Warning (10268): Verilog HDL information at TFT_driver.v(70): always construct contains both blocking and non-blocking assignments File: F:/FPGA/Code/DE1-SoC/Peripheral/TFT/SDRAM_TFT/RTL/TFT/TFT_driver.v Line: 70
+Warning (10268): Verilog HDL information at TFT_driver.v(82): always construct contains both blocking and non-blocking assignments File: F:/FPGA/Code/DE1-SoC/Peripheral/TFT/SDRAM_TFT/RTL/TFT/TFT_driver.v Line: 82
+Warning (10273): Verilog HDL warning at sdram_control.v(98): extended using "x" or "z" File: F:/FPGA/Code/DE1-SoC/Peripheral/TFT/SDRAM_TFT/RTL/SDRAM/sdram_control.v Line: 98
+Info (10281): Verilog HDL Declaration information at Sdram_Params.h(35): object "AUTO_REF" differs only in case from object "auto_ref" in the same scope File: F:/FPGA/Code/DE1-SoC/Peripheral/TFT/SDRAM_TFT/RTL/SDRAM/Sdram_Params.h Line: 35
